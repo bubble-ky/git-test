@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("dev m1");
         System.out.println("master conflict test");
         System.out.println("dev conflict test");
+        System.out.println("pull test");
     }
 }
